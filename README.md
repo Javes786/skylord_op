@@ -54,12 +54,13 @@ Special Thanks To [Hell_Userbot](https://telegram.dog/HellBot_Official) And Our 
 
 # The Normal Way
 
-
-'git clone https://github.com/skybot-op/skybot_op
+'''
+git clone https://github.com/skybot-op/skybot_op
 cd skybot_op
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r requirements.txt'
+pip install -r requirements.txt
+'''
 
 
 
